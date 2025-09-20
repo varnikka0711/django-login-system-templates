@@ -32,6 +32,6 @@ This project demonstrates *user authentication, CRUD operations, and database in
 - *Python 3.x*
 - *Django 5.x*
 - *SQLite* (default database)
-- *HTML5 / CSS3*
+- *HTML5*
 
 ---
